@@ -20,10 +20,24 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/></a> &nbsp
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white"/></a> &nbsp
   </p>
-  <!--
+  
 
+</br>
+
+
+<h3 align="center"><b> Project </b></h3>
+
+
+|프로젝트|내용|기간|Link|
+|---|---|---|---|
+|Monster Monarch|Java를 통한 게임 제작 프로젝트|2018/10~2018/12|---|
+|Image Stitching|C++, OpenCV를 통해 영상 간 뷰 합성|2019/6~2019/9|-|
+|View Synthesis & 3D mapping|Python과 OpenCV를 통해 영상간 뷰 합성 및 깊이맵 추출 후 3차원 그래프 생성|2019/7~2019/11|--|
+|BookRentalShop|Oracle과 C#을 이용한 데이터베이스 실습 프로젝트, 책 대여점 시스템|2019/10~2019/12|---|
+
+
+<!--
 **ChoiJaehoonDev/ChoiJaeHoonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 Here are some ideas to get you started:
 
@@ -36,9 +50,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 프로젝트
-이름|영어|정보|수학
----|---|---|---|
-나동빈|98점|87점|100점|
-홍길동|97점|78점|93점|
-이순신|89점|93점|97점|
