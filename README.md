@@ -16,10 +16,11 @@
 <img src="https://img.shields.io/badge/oracle-E34F26?style=flat-square&logo=oracle&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/mysql-50f030?style=flat-square&logo=mysql&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/unity-aa0bd6?style=flat-square&logo=unity&logoColor=white"/></a> &nbsp 
+
+</br>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/></a> &nbsp
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white"/></a> &nbsp
 </p>
-
-
-
 <!--
 **ChoiJaehoonDev/ChoiJaeHoonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
