@@ -3,6 +3,7 @@
   <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
   </br>
   
+  <sup>
   <p align="center">
   <img src="https://img.shields.io/badge/Python3-E34F26?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/C-f0aa30?style=flat-square&logo=C&logoColor=white"/></a> &nbsp
@@ -21,7 +22,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white"/></a> &nbsp
   </p>
   
-
+</sup>
 </br>
 
   
