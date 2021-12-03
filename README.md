@@ -5,14 +5,20 @@
   
   <!--
   <p align="center">
-  <img src="https://img.shields.io/badge/Python3-E34F26?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/C-f0aa30?style=flat-square&logo=C&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/C++-f2e01d?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/C%23-50f030?style=flat-square&logo=Csharp&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Python3-E34F26?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp -->
+  <!--
+  <img src="https://img.shields.io/badge/C-f0aa30?style=flat-square&logo=C&logoColor=white"/></a> &nbsp-->
+  <!--
+  <img src="https://img.shields.io/badge/C++-f2e01d?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> &nbsp-->
+  <!--
+  <img src="https://img.shields.io/badge/C%23-50f030?style=flat-square&logo=Csharp&logoColor=white"/></a> &nbsp -->
   <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
-  <img src="https://img.shields.io/badge/Java-418bf2?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp 
-  <img src="https://img.shields.io/badge/Javascript-0b11d6?style=flat-square&logo=Javascript&logoColor=white"/></a> &nbsp 
-  <img src="https://img.shields.io/badge/node.js-aa0bd6?style=flat-square&logo=node.js&logoColor=white"/></a> &nbsp 
+  <!--
+  <img src="https://img.shields.io/badge/Java-418bf2?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp -->
+  <!--
+  <img src="https://img.shields.io/badge/Javascript-0b11d6?style=flat-square&logo=Javascript&logoColor=white"/></a> &nbsp -->
+  <!--
+  <img src="https://img.shields.io/badge/node.js-aa0bd6?style=flat-square&logo=node.js&logoColor=white"/></a> &nbsp -->
   </br>
   <img src="https://img.shields.io/badge/oracle-E34F26?style=flat-square&logo=oracle&logoColor=white"/></a> &nbsp 
   <img src="https://img.shields.io/badge/mysql-50f030?style=flat-square&logo=mysql&logoColor=white"/></a> &nbsp 
